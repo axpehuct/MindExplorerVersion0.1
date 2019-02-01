@@ -11,4 +11,5 @@ public class YearOfBirth extends Filter {
     public int getYear() {
         return year;
     }
+
 }
